@@ -20,6 +20,7 @@
 
 ### Notes:
 * Custom kernels is not supported, use at your own risk
+* DT2W not works
 * LineageOS kernel
 * Safety net not pass
 * SELinux permissive
