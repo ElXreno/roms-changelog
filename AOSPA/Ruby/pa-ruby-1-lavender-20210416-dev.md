@@ -11,9 +11,7 @@
 
 ### Notes:
 * Custom kernels is not supported, use at your own risk
-* DT2W not works
 * LineageOS kernel
 * Safety net not pass
 * SELinux permissive
-* Styles & wallpapers crashes after some time (use English language if you want change wallpapers or use any other apps)
 * Miracast not works
