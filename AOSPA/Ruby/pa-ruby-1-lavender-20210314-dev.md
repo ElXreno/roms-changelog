@@ -25,4 +25,4 @@
 * Safety net not pass
 * SELinux permissive
 * Styles & wallpapers crashes after some time (use English language if you want change wallpapers or use any other apps)
-* WFD laggy with enabled Bluetooth
+* Miracast not works
