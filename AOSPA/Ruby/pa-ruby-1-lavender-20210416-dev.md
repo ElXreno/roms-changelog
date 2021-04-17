@@ -13,5 +13,6 @@
 * Custom kernels is not supported, use at your own risk
 * LineageOS kernel
 * Safety net not pass
-* SELinux permissive
 * Miracast not works
+* SELinux permissive
+* Europe firmware is recommended
