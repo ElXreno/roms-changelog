@@ -2,7 +2,7 @@
 
 ## Kernel:
 * Use multithread for kswapd.
-* Upstream to 4.4.271.
+* Upstream to 4.4.273.
 
 ## Device:
 * Enable SELinux Enforcing.
